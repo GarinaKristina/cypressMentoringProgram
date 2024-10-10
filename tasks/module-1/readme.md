@@ -19,7 +19,7 @@
 1. Create a branch called ‘login’
 2. [Read documentation & follow steps](https://docs.cypress.io/guides/getting-started/installing-cypress)
 3. Create .gitignore file and add node_modules folder to it
-4. [Read the documentation on how to add a script to open Cypress](https://docs.cypress.io/guides/getting-started/opening-the-app>)
+4. [Read the documentation on how to add a script to open Cypress](https://docs.cypress.io/guides/getting-started/opening-the-app)
 5. In the opened window select ‘E2E testing’ Chrome browser
    **DO NOT generate ‘Seaffold example specs’**
 
